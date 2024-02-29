@@ -1,0 +1,9 @@
+setuptools
+torch
+numpy
+pydub
+shazamio
+spotipy
+noisereduce
+scipy
+python-dotenv

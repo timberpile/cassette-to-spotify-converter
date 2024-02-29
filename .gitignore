@@ -1,0 +1,6 @@
+env
+files
+raw_files
+denoised_files
+*.pyc
+.env
